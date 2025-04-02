@@ -8,19 +8,19 @@ ID: 23017860
 ## Table of Contents
 
 1.  project-goal
-2.  #features
-3.  #models-compared
-4.  #technology-stack
-5.  #dataset
-6.  #project-structure
-7.  #setup-and-installation
-8.  #usage---running-the-code
-9.  #evaluation-metrics
-10. #results-summary
-11. #visualizations
-12. #limitations
-13. #future-work
-14. #license
+2.  features
+3.  models-compared
+4.  technology-stack
+5.  dataset
+6.  project-structure
+7.  setup-and-installation
+8.  usage---running-the-code
+9.  evaluation-metrics
+10. results-summary
+11. visualizations
+12. limitations
+13. future-work
+14. license
 
 ---
 
