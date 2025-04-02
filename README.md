@@ -7,7 +7,7 @@ ID: 23017860
 
 ## Table of Contents
 
-1.  #project-goal
+1.  project-goal
 2.  #features
 3.  #models-compared
 4.  #technology-stack
